@@ -1,7 +1,4 @@
----
-title: Hello, World!
-layout: default
----
+
 
 Author: Danilo Dongiovanni 
 
